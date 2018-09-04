@@ -1,6 +1,6 @@
 # Description
 
-Simple docker project to build [QxmlEdit] (http://qxmledit.org/) and get `deb`
+Simple docker project to build [QxmlEdit](http://qxmledit.org/) and get `deb`
 package to be installed in _Ubuntu 18.04_. (Maybe can work with other
 distributions).
 
