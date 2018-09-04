@@ -30,4 +30,4 @@ Now you can install package in your _ubuntu_ host:
 sudo dpkg -i qxmledit-XXXXXX.deb
 ```
 
-**NOTE**: Replace `XXXXXX` for appropriate value.
+**NOTE**: Replace `XXXXXX` by appropriate value.
